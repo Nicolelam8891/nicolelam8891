@@ -46,7 +46,7 @@
 <br></br>
  - 📖 **University of California, Bachelor of Arts**
 <br></br>
-   🩺 **Regist University, Bachelor of Science in Nursing**
+ - 🩺 **Regist University, Bachelor of Science in Nursing**
 
  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
