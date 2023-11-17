@@ -1,19 +1,119 @@
-### Hi there 👋
 
-<!--
-**Nicolelam8891/nicolelam8891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ <p align="center">Front End Software Engineer | Registered Nurse in Denver, Colorado serving the underprivileged community </p>
+ <p align="center">  With Tech, let's go out there and make a difference and through code, save some lives! </p>
+  <div align="center"> 
+    <img src="https://m.media-amazon.com/images/I/31AurEJBSQL._AC_.jpg" height="200px">
+   </div>
 
-Here are some ideas to get you started:
+ <div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  ##  Technologies Used: 
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /> 
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+
+  <br>
+
+ </div>
+
+## Contact Me: 
+ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/laura-garcia-guerra/) or email me at [NicoleLam8891@gmail.com](mailto:nicolelam8891@gmail.com) 
+
+
+ ##  Resume 
+ <details>
+   <summary>🎀 Click to View 🎀</summary>
+
+ <div align="left"> 
+
+ ## Education
+
+ - 📖 **Turing School of Software & Design**\
+ 💻 **Front End Software Development**\
+ 📆 July 3th, 2023 - current. Anticipated graduation January 2024. 
+
+ <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+ <p></p>
+
+ - 📖 **University of California, Berkeley & Regis Univeristy **\
+ 📖 ** Bachelor of Arts **\
+ 🩺 ** Bachelor of Science in Nursing **\
+
+ ## Experience
+
+ - 👩🏻‍💻 **Registered Nurse** - Frederico Pena Clinic, Denver Health Clinic in Denver, CO\
+ 🩺 **Family Medicine Clinic**\
+ 👩🏻‍💻 **Experience with Outpatient EPIC**\
+ 📆 Jan 2023 - current
+
+ - 👩🏻‍💻 **Registered Nurse** - Speciality Clinic, Denver Health Hospital in Denver, CO\
+  🩺 **Ears, Nose and Throat**\
+ 👩🏻‍💻 **Outpatient EPIC champion**\
+ 📆 April 2021- October 2022
+
+ - 👩🏻‍💻 **Registered Nurse** - St. Anthony's Hospital in Lakewood, CO\
+ 👩🏻‍💻 **Neuro & Ortho Trauma**\
+ 👩🏻‍💻 **Experience with inpatient EPIC**\
+ 📆 Feb 2020 - April 2021
+
+ - 👩🏻‍💻 **Canyon Point Oral Surgery** - Golden, CO\
+ 🩺 **Surgical Assistant & Sterile Technician**\
+ 📆 March 2017 - October 2018
+
+  - 👩🏻‍💻 **Walgreens Pharmacy** - Golden, CO\
+ 🩺 **Pharmacy Technician**\
+ 📆 January 2015 - July 2016
+
+  - 👩🏻‍💻 **Optimal Home Care** - Denver, CO\
+ 🩺 **Certified Nurse Aide**\
+ 📆 January 2014 - January 2015
+
+
+ ## Volunteer
+  👩🏻‍💻 **Church of All Saints Annual Fundraising Event** - Denver, CO\
+  📆 2015 - Current (yearly event)
+  
+  👩🏻‍💻 **St Anthony’s Central Hospital & Santa Clara Medical Center** - CA & CO\
+  📆 3 years worth of weekly volunteering at the hospital 
+
+  👩🏻‍💻 **Asian American Association, Berkeley California** - CA\
+  📖 **Advocate and unite the Asian American community, develop proactive measures through social and educational awareness, in addition to educating lower-income communities regarding the importance of higher education
+**\
+  📆 2 years worth of volunteering work
+
+  👩🏻‍💻 **Advanced Surgical Associates** - CA \
+  📆 1 year worth of weekly volunteering at the clinic
+  📖 ** Prepare pre and post-operational packets and insurance for all patients, observed laparoscopic surgery, assist with office related tasks, and communicated and worked alongside with the patients, doctors and workers fluently in Vietnamese
+**\
+
+   👩🏻‍💻 **Volunteer Health Interpreters Organization** - CA \
+  📆 2 years worth of volunteering in Berkeley and Oakland, CA
+  📖 **Strived to eliminate language barriers in healthcare settings by translating to the underserved, limited English proficient communities. Presented presentations to the elderly Vietnamese community regarding the issues of Hepatitis B in San Francisco & Oakland, California**\
+
+ </div>
+
+</div>
+
+
 
 <a href="mailto:Nicolelam8891@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
