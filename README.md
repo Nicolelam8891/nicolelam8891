@@ -60,52 +60,52 @@
 
  ## Experience
 
- - 👩🏻‍💻 **Registered Nurse** - Frederico Pena Clinic, Denver Health Clinic in Denver, CO\
+ - 👩🏻‍💻 **Registered Nurse** - Frederico Pena Clinic, Denver Health (Denver CO)\
  🩺 **Family Medicine Clinic**\
  👩🏻‍💻 **Experience with Outpatient EPIC**\
  📆 Jan 2023 - Current
 
- - 👩🏻‍💻 **Registered Nurse** - Speciality Clinic, Denver Health Hospital in Denver, CO\
+ - 👩🏻‍💻 **Registered Nurse** - Speciality Clinic, Denver Health Hospital (Denver, CO)\
   🩺 **Ears, Nose and Throat**\
  👩🏻‍💻 **Outpatient EPIC champion**\
  📆 April 2021- October 2022
 
- - 👩🏻‍💻 **Registered Nurse** - St. Anthony's Hospital in Lakewood, CO\
+ - 👩🏻‍💻 **Registered Nurse** - St. Anthony's Hospital (Lakewood, CO)\
  👩🏻‍💻 **Neuro & Ortho Trauma**\
  👩🏻‍💻 **Experience with inpatient EPIC**\
  📆 Feb 2020 - April 2021
 
- - 👩🏻‍💻 **Canyon Point Oral Surgery** - Golden, CO\
+ - 👩🏻‍💻 **Canyon Point Oral Surgery** - (Golden, CO)\
  🩺 **Surgical Assistant & Sterile Technician**\
  📆 March 2017 - October 2018
 
-  - 👩🏻‍💻 **Walgreens Pharmacy** - Golden, CO\
+  - 👩🏻‍💻 **Walgreens Pharmacy** - (Golden, CO)\
  🩺 **Pharmacy Technician**\
  📆 January 2015 - July 2016
 
-  - 👩🏻‍💻 **Optimal Home Care** - Denver, CO\
+  - 👩🏻‍💻 **Optimal Home Care** - (Denver, CO)\
  🩺 **Certified Nurse Aide**\
  📆 January 2014 - January 2015
 
 
  ## Volunteer
-  👩🏻‍💻 **Church of All Saints Annual Fundraising Event** - Denver, CO\
+  👩🏻‍💻 **Church of All Saints Annual Fundraising Event** - (Denver, CO)\
   📆 2015 - Current (yearly event)
   
-  👩🏻‍💻 **St Anthony’s Central Hospital & Santa Clara Medical Center** - CA & CO\
+  👩🏻‍💻 **St Anthony’s Central Hospital & Santa Clara Medical Center** - (CA & CO)\
   📆 3 years worth of weekly volunteering at the hospital 
 
-  👩🏻‍💻 **Asian American Association, Berkeley California** - CA\
+  👩🏻‍💻 **Asian American Association, Berkeley California** - (CA)\
   📖 **Advocate and unite the Asian American community, develop proactive measures through social and educational awareness, in addition to educating lower-income communities regarding the importance of higher education
 **\
   📆 2 years' worth of volunteering work
 
-  👩🏻‍💻 **Advanced Surgical Associates** - CA \
+  👩🏻‍💻 **Advanced Surgical Associates** - (CA) \
   📆 1 year's worth of weekly volunteering at the clinic
   📖 ** Prepare pre and post-operational packets and insurance for all patients, observed laparoscopic surgery, assisted with office-related tasks, and communicated and worked alongside the patients, doctors, and workers fluently in Vietnamese
 **\
 
-   👩🏻‍💻 **Volunteer Health Interpreters Organization** - CA \
+   👩🏻‍💻 **Volunteer Health Interpreters Organization** - (CA) \
   📆 2 years worth of volunteering in Berkeley and Oakland, CA
   📖 **Strived to eliminate language barriers in healthcare settings by translating to the underserved, limited English proficient communities. Presented presentations to the elderly Vietnamese community regarding the issues of Hepatitis B in San Francisco & Oakland, California**\
 
