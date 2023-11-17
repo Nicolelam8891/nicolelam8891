@@ -34,7 +34,7 @@
 
  ##  Resume 
  <details>
-   <summary>🎀 Click to View 🎀</summary>
+   <summary>📖 Click to view my past experiences! 📖</summary>
 
  <div align="left"> 
 
