@@ -28,7 +28,7 @@
  </div>
 
 ## Contact Me: 
- Feel free to visit my [LinkedIn](https://www.linkedin.com/in/laura-garcia-guerra/) or email me at [NicoleLam8891@gmail.com](mailto:nicolelam8891@gmail.com) 
+ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ngoc-lam-b9628a206/) or email me at [NicoleLam8891@gmail.com](mailto:nicolelam8891@gmail.com) 
 
 
  ##  Resume 
