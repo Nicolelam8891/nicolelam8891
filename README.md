@@ -32,6 +32,7 @@
 
 
  ##  Resume 
+ https://docs.google.com/document/d/17LYSdvXq239ewn6C_tMeLZd2U0MdgcQBwawQDei10iA/edit#heading=h.dula9ah0k8d2
  <details>
    <summary>📖 Click to view my past experiences! 📖</summary>
 
@@ -62,7 +63,7 @@
 
  - 👩🏻‍💻 **Registered Nurse** - Frederico Pena Clinic, Denver Health (Denver CO)\
  🩺 **Family Medicine Clinic**\
- 👩🏻‍💻 **Experience with Outpatient EPIC**\
+ 👩🏻‍💻 **Experience with EPIC outpatient**\
  📆 Jan 2023 - Current
 
  - 👩🏻‍💻 **Registered Nurse** - Speciality Clinic, Denver Health Hospital (Denver, CO)\
@@ -72,7 +73,7 @@
 
  - 👩🏻‍💻 **Registered Nurse** - St. Anthony's Hospital (Lakewood, CO)\
  👩🏻‍💻 **Neuro & Ortho Trauma**\
- 👩🏻‍💻 **Experience with inpatient EPIC**\
+ 👩🏻‍💻 **Experience with EPIC inpatient**\
  📆 Feb 2020 - April 2021
 
  - 👩🏻‍💻 **Canyon Point Oral Surgery** - (Golden, CO)\
