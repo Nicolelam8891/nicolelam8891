@@ -51,9 +51,9 @@
 
  <p></p>
 
- - 📖 **University of California, Berkeley & Regis University **\
- 📖 ** Bachelor of Arts **\
- 🩺 ** Bachelor of Science in Nursing **
+ - 📖 University of California, Berkeley & Regis University 
+   📖 Bachelor of Arts
+   🩺 Bachelor of Science in Nursing 
 
  ## Experience
 
