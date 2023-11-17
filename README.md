@@ -44,6 +44,8 @@
 <br></br>
  📆 July 3rd, 2023 - Current.
 <br></br>
+ - 📖 **University of California, Bachelor of Arts**
+   🩺 **Regist University, Bachelor of Science in Nursing**
 
  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -53,9 +55,7 @@
 
  <p></p>
 
- - 📖 University of California, Berkeley & Regis University 
-   📖 Bachelor of Arts
-   🩺 Bachelor of Science in Nursing 
+
 
  ## Experience
 
