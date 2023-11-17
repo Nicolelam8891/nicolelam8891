@@ -1,6 +1,6 @@
 <div align="center">
  <p align="center">Front End Software Engineer | Registered Nurse in CO serving the underprivileged community </p>
- <p align="center">  THROUGH TECH, LET'S GO OUT THERE AND  MAKE A DIFFERENT AND WITH CODE, SAVE SOME LIVES! </p>
+ <p align="center">  THROUGH TECH, LET'S GO OUT THERE AND  MAKE A DIFFERENCE AND WITH CODE, SAVE SOME LIVES! </p>
   <div align="center"> 
     <img src="https://blog.lantum.com/hubfs/Blog%20headers/dev-blog.png" height="300px">
    </div>
