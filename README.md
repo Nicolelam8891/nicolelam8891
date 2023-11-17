@@ -45,6 +45,7 @@
  📆 July 3rd, 2023 - Current.
 <br></br>
  - 📖 **University of California, Bachelor of Arts**
+<br></br>
    🩺 **Regist University, Bachelor of Science in Nursing**
 
  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
