@@ -96,19 +96,17 @@ January 2014 - January 2015
   **St Anthony’s Central Hospital & Santa Clara Medical Center** - (CA & CO)
   📆 3 years worth of weekly volunteering at the hospital 
 
-  **Asian American Association, Berkeley California** - (CA)\
-  📖 **Advocate and unite the Asian American community, develop proactive measures through social and educational awareness, in addition to educating lower-income communities regarding the importance of higher education
-**
+  **Asian American Association, Berkeley California** - (CA)
+  📖Advocate and unite the Asian American community, develop proactive measures through social and educational awareness, in addition to educating lower-income communities regarding the importance of higher education
   📆 2 years' worth of volunteering work
 
   **Advanced Surgical Associates** - (CA) 
   📆 1 year's worth of weekly volunteering at the clinic
-  📖 ** Prepare pre and post-operational packets and insurance for all patients, observed laparoscopic surgery, assisted with office-related tasks, and communicated and worked alongside the patients, doctors, and workers fluently in Vietnamese
-**
+  📖 Prepare pre and post-operational packets and insurance for all patients, observed laparoscopic surgery, assisted with office-related tasks, and communicated and worked alongside the patients, doctors, and workers fluently in Vietnamese
 
-   **Volunteer Health Interpreters Organization** - (CA) 
+  **Volunteer Health Interpreters Organization** - (CA) 
   📆 2 years worth of volunteering in Berkeley and Oakland, CA
-  📖 **Strived to eliminate language barriers in healthcare settings by translating to the underserved, limited English proficient communities. Presented presentations to the elderly Vietnamese community regarding the issues of Hepatitis B in San Francisco & Oakland, California**
+  📖 Strived to eliminate language barriers in healthcare settings by translating to the underserved, limited English proficient communities. Presented presentations to the elderly Vietnamese community regarding the issues of Hepatitis B in San Francisco & Oakland, California
 
  </div>
 
