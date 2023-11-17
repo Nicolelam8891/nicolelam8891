@@ -1,3 +1,4 @@
+![image](https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/f3a85441-7f5b-4e87-bbf8-f6ce2f742105)
 
 <div align="center">
  <p align="center">Front End Software Engineer | Registered Nurse in Denver, Colorado serving the underprivileged community </p>
