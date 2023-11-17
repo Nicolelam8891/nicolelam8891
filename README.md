@@ -39,12 +39,12 @@
 
  ## Education
 
- - 📖 **Turing School of Software & Design**\
+ - 📖 **Turing School of Software & Design**
  💻 **Front End Software Development**
-<br>
+<br></br>
  📆 July 3rd, 2023 - Current.
  📆 Anticipated graduation January 2024.
-<br>
+<br></br>
 
  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
