@@ -32,7 +32,7 @@
 
 
  ##  More info about me 
- https://docs.google.com/document/d/17LYSdvXq239ewn6C_tMeLZd2U0MdgcQBwawQDei10iA/edit#heading=h.dula9ah0k8d2
+I am a first-generation Asian American who strives to make a difference! I am fluent in Vietnamese, can speak conversational Cantonese, and currently learning Mandarin, Chinese. My hobbies include playing piano🎹 and tennis🎾! I chose to go into tech with the goal of making a difference in this world through coding! I am currently attending Turing School of Software & Design and recently completed Mod 3 and will be moving onto Mod 4 soon! Turing is a 7-month intensive program. I am currently in the front-end program, learning React, Javascript, HTML and CSS. 
  <details>
    <summary>📖 Click Here! 📖</summary>
 
