@@ -1,5 +1,5 @@
 <div align="center">
- <p align="center">Front End Software Engineer | Registered Nurse in CO serving the underprivileged community </p>
+ <p align="center"> 💻 Front End Software Engineer | 💉 Registered Nurse in CO serving the underprivileged community </p>
  <p align="center">  THROUGH TECH, LET'S GO OUT THERE AND  MAKE A DIFFERENCE AND WITH CODE, SAVE SOME LIVES! </p>
   <div align="center"> 
     <img src="https://blog.lantum.com/hubfs/Blog%20headers/dev-blog.png" height="300px">
@@ -9,7 +9,7 @@
 
 
 
-  ##  Technologies Used: 
+  ##  🎋Technologies Used🎋
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
@@ -27,18 +27,18 @@
 
  </div>
 
-## Contact Me: 
+## 🎋Contact Me🎋
  Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ngoc-lam-b9628a206/) or email me at [NicoleLam8891@gmail.com](mailto:nicolelam8891@gmail.com) 
 
 
- ##  More info about me 
-I am a first-generation Asian American who strives to make a difference! I am fluent in Vietnamese, can speak conversational Cantonese, and currently learning Mandarin, Chinese. My hobbies include playing piano🎹 and tennis🎾! I chose to go into tech with the goal of making a difference in this world through coding! I am currently attending Turing School of Software & Design and recently completed Mod 3 and will be moving onto Mod 4 soon! Turing is a 7-month intensive program. I am currently in the front-end program, learning React, Javascript, HTML and CSS. 
+ ##  🎋More info about me🎋 
+I am a first-generation Asian American who strives to make a difference! I am fluent in Vietnamese, can speak conversational Cantonese, and currently learning Mandarin, Chinese. My hobbies include playing pian o🎹 and tennis 🎾! I chose to go into tech with the goal of making a difference in this world through coding! I am currently attending Turing School of Software & Design and recently completed Mod 3 and will be moving onto Mod 4 soon! Turing is a 7-month intensive program. I am currently in the front-end program, learning React, Javascript, HTML and CSS. 
  <details>
    <summary>📖 Click Here! 📖</summary>
 
  <div align="left"> 
 
- ## Education
+ ## 🎋Education🎋
 
  - 📖 **Turing School of Software & Design**
  💻 **Front End Software Development**
@@ -57,9 +57,7 @@ I am a first-generation Asian American who strives to make a difference! I am fl
 
  <p></p>
 
-
-
- ## Experience
+ ## 🎋Experience🎋
 
  - 🩺 **Registered Nurse** - Frederico Pena Clinic, Denver Health (Denver CO)
 **Family Medicine Clinic**
@@ -89,7 +87,7 @@ January 2015 - July 2016
 January 2014 - January 2015
 
 
- ## Volunteer Experience
+ ## 🎋Volunteer Experience🎋
   **Church of All Saints Annual Fundraising Event** - (Denver, CO)
   📆 2015 - Current (yearly event)
   
