@@ -44,7 +44,7 @@
 
 
  ##  🎋More info about me🎋 
-I am a first-generation Asian American who strives to make a difference! I am fluent in Vietnamese, can speak conversational Cantonese, and currently learning Mandarin, Chinese. My hobbies include playing piano 🎹 and tennis 🎾! I chose to go into tech with the goal of making a difference in this world through coding! I am currently attending Turing School of Software & Design and recently completed Mod 3 and will be moving onto Mod 4 soon! Turing is a 7-month intensive program. I am currently in the front-end program, learning React, Javascript, HTML and CSS. 
+I am a first-generation Asian American who strives to make a difference! I graduated from the University of California, Berkeley and received my Bachelor of Science in Nursing at Regis University through an accelerated 11-month program. I am fluent in Vietnamese, can speak conversational Cantonese, and currently learning Mandarin, Chinese. My hobbies include playing piano 🎹 and tennis 🎾! I chose to go into tech with the goal of making a difference in this world through coding! I am currently attending Turing School of Software & Design and recently completed Mod 3 and will be moving onto Mod 4 soon! Turing is a 7-month intensive program. I am currently in the front-end program, learning React, Javascript, HTML and CSS. 
  
  <details>
   <br></br>
