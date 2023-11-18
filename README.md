@@ -67,29 +67,34 @@ I am a first-generation Asian American who strives to make a difference! I am fl
 **Experience with EPIC outpatient**
 <br></br>
  📆Jan 2023 - Current
-
+<br></br>
+<br></br>
  - 🩺 **Registered Nurse** - Speciality Clinic, Denver Health Hospital (Denver, CO)
 **Ears, Nose and Throat**
 **Outpatient EPIC champion**
 <br></br>
  📆April 2021- October 2022
-
+<br></br>
+<br></br>
  - 🩺 **Registered Nurse** - St. Anthony's Hospital (Lakewood, CO)
 **Neuro & Ortho Trauma**
 **Experience with EPIC inpatient**
 <br></br>
  📆Feb 2020 - April 2021
-
+<br></br>
+<br></br>
  - 🩺 **Canyon Point Oral Surgery** - (Golden, CO)
 **Surgical Assistant & Sterile Technician**
 <br></br>
 March 2017 - October 2018
-
+<br></br>
+<br></br>
   - 🩺 **Walgreens Pharmacy** - (Golden, CO)
 **Pharmacy Technician**
 <br></br>
  📆January 2015 - July 2016
-
+<br></br>
+<br></br>
   - 🩺 **Optimal Home Care** - (Denver, CO)
 **Certified Nurse Aide**
 <br></br>
