@@ -48,8 +48,8 @@ I am a first-generation Asian American who strives to make a difference! I am fl
  
  <details>
   <br></br>
-![Screenshot 2023-11-17 at 5 43 32 PM](https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/83807915-d743-4214-bd9f-1048117f2448)
 
+![Screenshot 2023-11-17 at 5 43 32 PM](https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/75080dfa-7c6a-4c26-98bf-d33d7ad06f0c)
 
    <summary>📖 Click here for my resume 📖</summary>
 <br></br>
