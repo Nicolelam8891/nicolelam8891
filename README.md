@@ -6,7 +6,8 @@
    </div>
 
  <div align="center">
-
+<br></br>
+	 <br></br>
 <a href="mailto:nicolelam8891@gmail.com">
 	  <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 	<a href="https://www.linkedin.com/in/ngoc-lam-b9628a206/">
