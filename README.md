@@ -8,7 +8,6 @@
  <div align="center">
 
 
-
   ##  🎋Technologies Used🎋
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,7 +24,9 @@
 
   <br>
 
+
  </div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb58sBiy1gA_U8aEKHoqD6ysB5gT9RjeHKBv3ENgJJUz_SKdITlnHHJ_ByxY4ClcNo4I&usqp=CAU" height="300px">
 
 ## 🎋Contact Me🎋
  Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ngoc-lam-b9628a206/) or email me at [NicoleLam8891@gmail.com](mailto:nicolelam8891@gmail.com) 
