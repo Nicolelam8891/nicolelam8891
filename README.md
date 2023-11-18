@@ -26,7 +26,6 @@
 
 
  </div>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb58sBiy1gA_U8aEKHoqD6ysB5gT9RjeHKBv3ENgJJUz_SKdITlnHHJ_ByxY4ClcNo4I&usqp=CAU" height="300px">
 
 ## 🎋Contact Me🎋
  Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ngoc-lam-b9628a206/) or email me at [NicoleLam8891@gmail.com](mailto:nicolelam8891@gmail.com) 
@@ -34,6 +33,7 @@
 
  ##  🎋More info about me🎋 
 I am a first-generation Asian American who strives to make a difference! I am fluent in Vietnamese, can speak conversational Cantonese, and currently learning Mandarin, Chinese. My hobbies include playing piano 🎹 and tennis 🎾! I chose to go into tech with the goal of making a difference in this world through coding! I am currently attending Turing School of Software & Design and recently completed Mod 3 and will be moving onto Mod 4 soon! Turing is a 7-month intensive program. I am currently in the front-end program, learning React, Javascript, HTML and CSS. 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb58sBiy1gA_U8aEKHoqD6ysB5gT9RjeHKBv3ENgJJUz_SKdITlnHHJ_ByxY4ClcNo4I&usqp=CAU" height="300px">
  <details>
    <summary>📖 Click Here! 📖</summary>
 
