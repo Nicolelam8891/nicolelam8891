@@ -8,14 +8,14 @@
  <div align="center">
 <br></br>
 
-## 🎋Contact Me🎋
+## 🎋 Contact Me 🎋
 <a href="mailto:nicolelam8891@gmail.com">
 	  <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 	<a href="https://www.linkedin.com/in/ngoc-lam-b9628a206/">
 	   <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  
 
-  ##  🎋Technologies Used🎋
+  ##  🎋 Technologies Used 🎋
 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +43,7 @@
  </div>
 
 
- ##  🎋More info about me🎋 
+ ##  🎋 More info about me 🎋 
 
 I'm thrilled to share a bit about my journey, one that's taken me from the world of healthcare to the exciting realm of technology. As a first-generation Asian American, my academic roots were planted at the University of California, Berkeley. My passion for healthcare led me to Regis University, where I completed an accelerated 11-month Bachelor of Science in Nursing. I'm fluent in Vietnamese, conversational in Cantonese, and currently learning Mandarin, Chinese. My hobbies include piano 🎹 and tennis 🎾. 
 
@@ -64,11 +64,11 @@ I'm excited about this new chapter, where I aim to blend my healthcare insights 
 
 
 
-   <summary>📖 Click here: Experience & Volunteer work 📖</summary>
+   <summary>📖 Click here: Experiences & Volunteering 📖</summary>
 <br></br>
  <div align="left"> 
 
- ## 🎋Education🎋
+ ## 🎋 Education 🎋
 
  - 📖 **Turing School of Software & Design**
  💻 **Front End Software Development**
@@ -82,7 +82,7 @@ I'm excited about this new chapter, where I aim to blend my healthcare insights 
 
  <p></p>
 
- ## 🎋Experience🎋
+ ## 🎋 Work Experience 🎋
 
  - 🩺 **Registered Nurse** - Frederico Pena Clinic, Denver Health (Denver CO)
 **Family Medicine Clinic**
@@ -123,7 +123,7 @@ I'm excited about this new chapter, where I aim to blend my healthcare insights 
  📆 January 2014 - January 2015
 
 
- ## 🎋Volunteer Experience🎋
+ ## 🎋 Volunteer Experience 🎋
   **💚 Church of All Saints Annual Fundraising Event** - (Denver, CO)
   📆 2015 - Current (yearly event)
   
