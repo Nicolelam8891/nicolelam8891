@@ -51,9 +51,9 @@ My healthcare journey began as an inpatient and outpatient nurse. During those e
 
 I also worked closely with MyChart, another EPIC resource, to demonstrate how technology could empower patients, making health management accessible at their fingertips. This exposure sparked a profound appreciation for technology and its potential to transform lives, which is why I decided to pivot my career, steering towards the tech world with a mission to make a difference through coding!
 
-Currently, I'm honing my skills at the Turing School of Software & Design. It's a 7-month intensive program, and I've just wrapped up Mod 3. Next up, Mod 4! Here, in the front-end program, I'm delving into React, JavaScript, HTML, CSS, and much more!
+Without any experience in tech or coding, I joined the Turing School of Software & Design. It's a 7-month intensive program, and I've just wrapped up Mod 3. Next up, Mod 4! Here, in the front-end program, I'm delving into React, JavaScript, HTML, CSS, and much more!
 
-I'm excited about this new chapter, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can save lives!
+I'm excited about this new chapter, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can make a difference!
 <br></br>
 
  
