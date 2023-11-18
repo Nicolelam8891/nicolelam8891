@@ -55,7 +55,7 @@ I am currently attending Turing School of Software & Design and recently complet
 
 
 
-   <summary>📖 Click here for my resume 📖</summary>
+   <summary>📖 Click here for past Experience & Volunteer work📖</summary>
 <br></br>
  <div align="left"> 
 
