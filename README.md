@@ -50,8 +50,10 @@ I am currently attending Turing School of Software & Design and recently complet
  
  <details>
   <br></br>
+    <img src="https://cdn.medifind.com/wp/2020/08/31184653/00_3_8-Major-Problems-with-the-US-Healthcare-System-Today_hero-768x510.png" height="300px">
+	 
 
-![Screenshot 2023-11-17 at 5 43 32 PM](https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/75080dfa-7c6a-4c26-98bf-d33d7ad06f0c)
+
 
    <summary>📖 Click here for my resume 📖</summary>
 <br></br>
@@ -66,7 +68,7 @@ I am currently attending Turing School of Software & Design and recently complet
 <br></br>
  - 📖 **University of California, Bachelor of Arts**
 <br></br>
- - 🩺 **Regist University, Bachelor of Science in Nursing**
+ - 🩺 **Regis University, Bachelor of Science in Nursing**
 
 
  <p></p>
