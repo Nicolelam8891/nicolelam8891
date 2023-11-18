@@ -41,7 +41,8 @@ I am a first-generation Asian American who strives to make a difference! I am fl
   <br></br>
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb58sBiy1gA_U8aEKHoqD6ysB5gT9RjeHKBv3ENgJJUz_SKdITlnHHJ_ByxY4ClcNo4I&usqp=CAU" height="300px">
    <summary>📖 Click here for my resume 📖</summary>
-
+<br></br>
+	 <br></br>
  <div align="left"> 
  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
