@@ -51,10 +51,7 @@ I am a first-generation Asian American who strives to make a difference! I am fl
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb58sBiy1gA_U8aEKHoqD6ysB5gT9RjeHKBv3ENgJJUz_SKdITlnHHJ_ByxY4ClcNo4I&usqp=CAU" height="300px">
    <summary>📖 Click here for my resume 📖</summary>
 <br></br>
-
  <div align="left"> 
-
-   <br></br>
 
  ## 🎋Education🎋
 
