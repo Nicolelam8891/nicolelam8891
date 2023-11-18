@@ -49,9 +49,7 @@ I'm thrilled to share a bit about my journey, one that's taken me from the world
 
 My healthcare journey began as an inpatient and outpatient nurse. During those enriching years, I had a close ally: the EPIC charting system. Working with EPIC was a revelation. It not only streamlined my nursing tasks but also played a pivotal role in reducing medical errors and preventing adverse effects. Whether at the bedside or in the clinic, I saw firsthand how technology made my life easier as a nurse, as long as I spent the time to learn more about the system. 
 
-I also worked closely with MyChart, another EPIC resource, to demonstrate how technology could empower patients, making health management accessible at their fingertips. This exposure sparked a profound appreciation for technology and its potential to transform lives.
-
-That's why I decided to pivot my career, steering towards the tech world with a mission to make a difference through coding!
+I also worked closely with MyChart, another EPIC resource, to demonstrate how technology could empower patients, making health management accessible at their fingertips. This exposure sparked a profound appreciation for technology and its potential to transform lives, which is why I decided to pivot my career, steering towards the tech world with a mission to make a difference through coding!
 
 Currently, I'm honing my skills at the Turing School of Software & Design. It's a 7-month intensive program, and I've just wrapped up Mod 3. Next up, Mod 4! Here, in the front-end program, I'm delving into React, JavaScript, HTML, CSS, and much more!
 
