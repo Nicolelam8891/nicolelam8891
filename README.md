@@ -50,7 +50,7 @@ I am currently attending Turing School of Software & Design and recently complet
  
  <details>
   <br></br>
-    <img src="https://cdn.medifind.com/wp/2020/08/31184653/00_3_8-Major-Problems-with-the-US-Healthcare-System-Today_hero-768x510.png" height="300px">
+    <img src="https://cdn.medifind.com/wp/2020/08/31184653/00_3_8-Major-Problems-with-the-US-Healthcare-System-Today_hero-768x510.png" height="200px">
 	 
 
 
