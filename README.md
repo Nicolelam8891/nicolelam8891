@@ -64,13 +64,14 @@ I'm excited about this new chapter, where I aim to blend my healthcare insights 
 
 
 
-   <summary>📗 Click here: 🌱 Experiences & Volunteering 🌱</summary>
+   <summary>📗 Click here: 🌱 Projects | Experiences | Volunteering 🌱</summary>
 <br></br>
  <div align="left"> 
 
  ## 🎋 PROJECTS 🎋
 MOD 1: 
 [ColoRandom (group project](https://colo-random-mod-1-group-project.vercel.app/)
+<br></br>
 [Rock-Paper-Scissors (final solo project](rock-paper-scissors-mod-1-solo-project.vercel.app)
 
  ## 🎋 Education 🎋
