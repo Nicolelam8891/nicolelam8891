@@ -69,6 +69,7 @@ I'm excited about this new chapter, where I aim to blend my healthcare insights 
  <div align="left"> 
 
  ## 🎋 PROJECTS 🎋
+ <br></br>
 MOD 1: 
 <br></br>
 [ColoRandom (group project](https://colo-random-mod-1-group-project.vercel.app/)
