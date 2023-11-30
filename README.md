@@ -73,9 +73,9 @@ Fun facts: I'm fluent in Vietnamese, conversational in Cantonese, and currently 
 
 MOD 1: 
 <br></br>
-[ColoRandom (group project](https://colo-random-mod-1-group-project.vercel.app/)
+[ColoRandom (group project)](https://colo-random-mod-1-group-project.vercel.app/)
 <br></br>
-[Rock-Paper-Scissors (final solo project](rock-paper-scissors-mod-1-solo-project.vercel.app)
+[Rock-Paper-Scissors (final solo project)](rock-paper-scissors-mod-1-solo-project.vercel.app)
 
  ## 🎋 Education 🎋
 
