@@ -45,15 +45,14 @@
 
  ##  🎋 More info about me 🎋 
 
-I'm thrilled to share a bit about my journey, one that's taken me from the world of healthcare to the exciting realm of technology. As a first-generation Asian American, my academic roots were planted at the University of California, Berkeley. My passion for healthcare led me to Regis University, where I completed an accelerated 11-month Bachelor of Science in Nursing. I'm fluent in Vietnamese, conversational in Cantonese, and currently learning Mandarin, Chinese. My hobbies include piano 🎹 and tennis 🎾. 
+As a first-generation Asian American, I understand the struggles of growing up in an underserved community, not understanding English and being different. This led me to have a passion for helping others, which led me to Regis University, where I completed an accelerated 11-month Bachelor of Science in Nursing. My healthcare journey began as an inpatient and outpatient nurse. During these 5 years of being a nurse, I had a close ally: the EPIC charting system. Working with EPIC was a revelation. It not only streamlined my nursing tasks but also played a pivotal role in reducing medical errors and preventing adverse effects. Whether at the bedside or in the clinic, I saw firsthand how technology made my life easier as a nurse, as long as I spent the time to learn more about the system--which is exactly what I did! I also worked closely with MyChart, another EPIC resource, to demonstrate how technology could empower patients, making health management accessible! 
 
-My healthcare journey began as an inpatient and outpatient nurse. During those enriching years, I had a close ally: the EPIC charting system. Working with EPIC was a revelation. It not only streamlined my nursing tasks but also played a pivotal role in reducing medical errors and preventing adverse effects. Whether at the bedside or in the clinic, I saw firsthand how technology made my life easier as a nurse, as long as I spent the time to learn more about the system--which is exactly what I did! 
+This exposure sparked a profound appreciation for technology and its potential to transform lives, which is why I decided to pivot my career, steering towards the tech world with a mission to make a difference through coding! Without any experience in tech or coding, I joined the Turing School of Software & Design. It's a 7-month intensive program, and I've just wrapped up Mod 3. Next up, Mod 4! Here, in the front-end program, I'm delving into React, JavaScript, HTML, CSS, and much more!
 
-I also worked closely with MyChart, another EPIC resource, to demonstrate how technology could empower patients, making health management accessible at their fingertips. This exposure sparked a profound appreciation for technology and its potential to transform lives, which is why I decided to pivot my career, steering towards the tech world with a mission to make a difference through coding!
+I'm excited about this new chapter, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can make a difference. My goal is to continue to advocate for underprivileged communities, through volunteering and acts of service! 
 
-Without any experience in tech or coding, I joined the Turing School of Software & Design. It's a 7-month intensive program, and I've just wrapped up Mod 3. Next up, Mod 4! Here, in the front-end program, I'm delving into React, JavaScript, HTML, CSS, and much more!
+Fun facts: I'm fluent in Vietnamese, conversational in Cantonese, and currently learning Mandarin, Chinese. My hobbies include piano 🎹 and tennis 🎾. 
 
-I'm excited about this new chapter, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can make a difference!
 <br></br>
 
  
