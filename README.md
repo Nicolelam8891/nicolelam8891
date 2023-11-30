@@ -82,9 +82,9 @@ MOD 1:
 <br></br>
  📆 July 3rd, 2023 - Current.
 <br></br>
- - 📝 **University of California, Bachelor of Arts**
+ - 📝 **University of California, Berkeley, BA**
 <br></br>
- - 🩺 **Regis University, Bachelor of Science in Nursing**
+ - 📝 **Regis University, BSN**
 
 
  <p></p>
