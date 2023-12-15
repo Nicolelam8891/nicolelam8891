@@ -45,15 +45,15 @@
 
  ##  🎋 More info about me 🎋 
 
-As a first-generation Asian American, I understand the struggles of speaking a language different than English and growing up in an underserved community. This experience fueled my passion for helping others and striving to fight against cultural and language barriers. I spent over 10 years working in healthcare and graduated with an 11-month accelerated Bachelor of Science in Nursing at Regis University. 
+Both a front-end software engineer and registered nurse in Denver, CO, I am equipped with unique skills from tech and healthcare. With over 10 years of experience in the medical field, I am adept at critical thinking and problem-solving. Equipped with years of collaboration with healthcare providers across various specialties, I've acquired strong interpersonal skills and a strong sense of teamwork. Throughout my career, I've demonstrated resilience and adaptability, being efficient in diverse areas, while consistently delivering in fast-paced and high-acuity environments. 
+I'm excited about this new chapter in software development, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can make a difference. 
 
-My healthcare journey began as an inpatient and outpatient nurse. During these 4 years, I had a close ally: the EPIC charting system. This system not only streamlined my nursing tasks but also played a pivotal role in reducing medical errors and preventing adverse effects. Whether at the bedside or in the clinic, I saw firsthand how technology made my life easier as a nurse! On the outpatient side, I worked closely with MyChart, another EPIC resource, to demonstrate how technology could empower patients, making health management accessible! 
+I am excited to leverage these experiences to contribute to software development teams. 
 
-This exposure sparked a profound appreciation for technology and its potential to transform lives, which is why I decided to pivot my career, moving toward the tech world with a mission to make a difference through coding! Without any experience in tech or coding, I joined the Turing School of Software & Design. It's a 7-month intensive program, and I've just wrapped up Mod 3. Next up, Mod 4! Here, in the front-end program, I'm delving into React, JavaScript, HTML, CSS, and much more!
-
-I'm excited about this new chapter, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can make a difference. My goal is to continue to advocate for underprivileged & underserved communities in Denver, through volunteering and acts of service! 
-
-Fun facts: I'm fluent in Vietnamese, conversational in Cantonese, and currently learning Mandarin, Chinese. My hobbies include piano 🎹 and tennis 🎾. 
+Fun facts: 
+-I'm fluent in Vietnamese, conversational in Cantonese, and currently learning Mandarin.
+-My hobbies include piano 🎹 and tennis 🎾. 
+-I plan to continue to advocate for underprivileged & underserved communities in Denver, through volunteering and acts of service! 
 
 <br></br>
 
