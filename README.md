@@ -21,7 +21,7 @@
 
 Both a front-end software engineer and registered nurse, I am equipped with strong collaboration & interpersonal skills. With over 10 years of experience in the medical field, I am adept at critical thinking and problem-solving.  Throughout my career, I've demonstrated resilience and adaptability, being efficient in diverse areas, while consistently delivering in high-acuity environments. I'm excited about this new chapter in software development, where I aim to blend my healthcare insights with tech innovation to create impactful solutions that can make a difference. 
 
-Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹| tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
+Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹 | tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
 
 <br></br>
 
