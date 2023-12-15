@@ -63,7 +63,7 @@ MOD 1:
 
 
   <br></br>
-   <summary>📗 Click here: 🌱 Projects | Experiences | Volunteering 🌱</summary>
+   <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
 <br></br>
  <div align="left"> 
 
