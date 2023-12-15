@@ -57,7 +57,14 @@ Fun facts:
 
 <br></br>
 
- 
+  ## 🎋 PROJECTS 🎋
+
+MOD 1: 
+<br></br>
+[ColoRandom (group project)](https://colo-random-mod-1-group-project.vercel.app/)
+<br></br>
+[Rock-Paper-Scissors (final solo project)](rock-paper-scissors-mod-1-solo-project.vercel.app)
+
  <details>
   <br></br>
     <img src="https://cdn.medifind.com/wp/2020/08/31184653/00_3_8-Major-Problems-with-the-US-Healthcare-System-Today_hero-768x510.png" height="200px">
@@ -68,14 +75,6 @@ Fun facts:
    <summary>📗 Click here: 🌱 Projects | Experiences | Volunteering 🌱</summary>
 <br></br>
  <div align="left"> 
-
- ## 🎋 PROJECTS 🎋
-
-MOD 1: 
-<br></br>
-[ColoRandom (group project)](https://colo-random-mod-1-group-project.vercel.app/)
-<br></br>
-[Rock-Paper-Scissors (final solo project)](rock-paper-scissors-mod-1-solo-project.vercel.app)
 
  ## 🎋 Education 🎋
 
