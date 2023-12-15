@@ -24,10 +24,7 @@ I'm excited about this new chapter in software development, where I aim to blend
 
 I am excited to leverage these experiences to contribute to software development teams. 
 
-Fun facts: 
--I'm fluent in Vietnamese, conversational in Cantonese, and currently learning Mandarin.
--My hobbies include piano 🎹 and tennis 🎾. 
--I plan to continue to advocate for underprivileged & underserved communities in Denver, through volunteering and acts of service! 
+Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹| tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
 
 <br></br>
 
