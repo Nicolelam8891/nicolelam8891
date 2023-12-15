@@ -19,10 +19,7 @@
 
  ##  🎋 More info about me 🎋 
 
-Both a front-end software engineer and registered nurse in Denver, CO, I am equipped with unique skills from tech and healthcare. With over 10 years of experience in the medical field, I am adept at critical thinking and problem-solving. Equipped with years of collaboration with healthcare providers across various specialties, I've acquired strong interpersonal skills and a strong sense of teamwork. Throughout my career, I've demonstrated resilience and adaptability, being efficient in diverse areas, while consistently delivering in fast-paced and high-acuity environments. 
-I'm excited about this new chapter in software development, where I aim to blend my healthcare insights with tech innovation to create impactful solutions and create code that can make a difference. 
-
-I am excited to leverage these experiences to contribute to software development teams. 
+Both a front-end software engineer and registered nurse, I am equipped with strong collaboration & interpersonal skills. With over 10 years of experience in the medical field, I am adept at critical thinking and problem-solving.  Throughout my career, I've demonstrated resilience and adaptability, being efficient in diverse areas, while consistently delivering in high-acuity environments. I'm excited about this new chapter in software development, where I aim to blend my healthcare insights with tech innovation to create impactful solutions that can make a difference. 
 
 Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹| tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
 
