@@ -44,7 +44,7 @@ MOD 3:
 <br></br>
 [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
 <br></br>
-[News Reader 📰 (solo project | Github)](https://github.com/Nicolelam8891/newsreader) 
+[News Reader 📰 (solo project | Github)](https://github.com/Nicolelam8891/newsreader/tree/feat/setup/newsreader) 
 
 
   ##  🎋 Technologies Used 🎋
