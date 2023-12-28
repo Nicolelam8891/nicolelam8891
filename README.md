@@ -39,11 +39,16 @@ MOD 1:
 MOD 2: 
 <br></br>
 [Overlook 🏨 (final solo project)](https://nicolelam8891.github.io/overlook-mod-2-solo-project/) | [GitHub](https://github.com/Nicolelam8891/overlook-mod-2-solo-project)
+<br></br>
 MOD 3: 
 <br></br>
 [Rancid Tomatoes 🍅 (partner project)](https://rotten-tomatillos-eta.vercel.app/) | [GitHub](https://github.com/pitter3/RottenTomatillos)
+<br></br>
 [Caphill  Coffee ☕️ (group project / backend stretchtech)](https://caphill-coffee-brown.vercel.app/) | [GitHub ☕️](https://github.com/alfonsojack/caphill-coffee)
+<br></br>
 [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub ☕️](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
+<br></br>
+[News Reader 🎮  (solo project | Github)](https://github.com/Nicolelam8891/newsreader) 
 
 
   ##  🎋 Technologies Used 🎋
