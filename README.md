@@ -1,6 +1,6 @@
 <div align="center">
  <p align="center"> 💻 Front End Software Engineer | 💉 Nurse serving the underprivileged community </p>
- <p align="center">  WITH CODE, LET'S GO OUT THERE & MAKE A POSITIVE IMPACT! </p>
+ <p align="center">  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
   <div align="center"> 
     <img src="https://blog.lantum.com/hubfs/Blog%20headers/dev-blog.png" height="300px">
    </div>
