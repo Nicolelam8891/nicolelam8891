@@ -37,6 +37,7 @@ MOD 1:
 [Rock-Paper-Scissors (final solo project)](rock-paper-scissors-mod-1-solo-project.vercel.app)
 <br></br>
 MOD 2: 
+<br></br>
 [Overlook (final solo project)](https://nicolelam8891.github.io/overlook-mod-2-solo-project/)
 
 
