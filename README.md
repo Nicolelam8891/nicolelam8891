@@ -10,6 +10,7 @@
 
 ## 🎋 Contact Me 🎋
 [Portfolio (terminal)](https://terminal.turing.edu/profiles/2024)
+[Resume](https://docs.google.com/document/d/17LYSdvXq239ewn6C_tMeLZd2U0MdgcQBwawQDei10iA/edit#heading=h.dula9ah0k8d2)
     
 <a href="mailto:nicolelam8891@gmail.com">
 	  <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
