@@ -35,6 +35,10 @@ MOD 1:
 [ColoRandom (group project)](https://colo-random-mod-1-group-project.vercel.app/)
 <br></br>
 [Rock-Paper-Scissors (final solo project)](rock-paper-scissors-mod-1-solo-project.vercel.app)
+<br></br>
+MOD 2: 
+[Overlook (final solo project)](https://nicolelam8891.github.io/overlook-mod-2-solo-project/)
+
 
   ##  🎋 Technologies Used 🎋
 
