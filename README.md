@@ -18,35 +18,31 @@
  
  </div>
 
-
-
  ##  🎋 More info about me 🎋 
 
 Both a front-end software engineer and registered nurse, I am equipped with strong collaboration & interpersonal skills. With over 10 years of experience in the medical field, I am adept at critical thinking and problem-solving.  Throughout my career, I've demonstrated resilience and adaptability, being efficient in diverse areas, while consistently delivering in high-acuity environments. I'm excited about this new chapter in software development, where I aim to blend my healthcare insights with tech innovation to create impactful solutions that can make a difference. 
 
 Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹 | tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
-
 <br></br>
-
   ## 🎋 PROJECTS 🎋
 
 MOD 1: 
 <br></br>
-[ColoRandom 🖍️ (group project)](https://colo-random-mod-1-group-project.vercel.app/) | [GitHub 🖍️](https://github.com/Nicolelam8891/coloRandom-mod-1-group-project)
+[ColoRandom 🖍️ (group project)](https://colo-random-mod-1-group-project.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/coloRandom-mod-1-group-project)
 <br></br> 
-[Rock-Paper-Scissors 🪨 📄 ✂️ (final solo project)](rock-paper-scissors-mod-1-solo-project.vertical.app) | [GitHub  🪨 📄 ✂️](https://github.com/Nicolelam8891/rock-paper-scissors-mod-1-solo-project)
+[Rock-Paper-Scissors 🪨 📄 ✂️ (final solo project)](rock-paper-scissors-mod-1-solo-project.vertical.app) | [GitHub](https://github.com/Nicolelam8891/rock-paper-scissors-mod-1-solo-project)
 <br></br>
 MOD 2: 
 <br></br>
-[Overlook 🏨 (final solo project)](https://nicolelam8891.github.io/overlook-mod-2-solo-project/) | [GitHub 🏨 ](https://github.com/Nicolelam8891/overlook-mod-2-solo-project)
+[Overlook 🏨 (final solo project)](https://nicolelam8891.github.io/overlook-mod-2-solo-project/) | [GitHub](https://github.com/Nicolelam8891/overlook-mod-2-solo-project)
 <br></br>
 MOD 3: 
 <br></br>
-[Rancid Tomatoes 🍅 (partner project)](https://rotten-tomatillos-eta.vercel.app/) | [GitHub 🍅](https://github.com/pitter3/RottenTomatillos)
+[Rancid Tomatoes 🍅 (partner project)](https://rotten-tomatillos-eta.vercel.app/) | [GitHub](https://github.com/pitter3/RottenTomatillos)
 <br></br>
-[Caphill  Coffee ☕️ (group project / backend stretchtech)](https://caphill-coffee-brown.vercel.app/) | [GitHub ☕️](https://github.com/alfonsojack/caphill-coffee)
+[Caphill  Coffee ☕️ (group project / backend stretchtech)](https://caphill-coffee-brown.vercel.app/) | [GitHub](https://github.com/alfonsojack/caphill-coffee)
 <br></br>
-[Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub 🎮 ](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
+[Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
 <br></br>
 [News Reader 📰 (solo project | Github)](https://github.com/Nicolelam8891/newsreader) 
 
