@@ -20,7 +20,11 @@
 
  ##  🎋 More info about me 🎋 
 
-Both a front-end software engineer and registered nurse, I am equipped with strong collaboration & interpersonal skills. With over 10 years of experience in the medical field, I am adept at critical thinking and problem-solving.  Throughout my career, I've demonstrated resilience and adaptability, being efficient in diverse areas, while consistently delivering in high-acuity environments. I'm excited about this new chapter in software development, where I aim to blend my healthcare insights with tech innovation to create impactful solutions that can make a difference. 
+In my roles as both an inpatient and outpatient nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. Adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams.
+
+As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities.
+
+Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of communities from all walks of life!
 
 Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹 | tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
 <br></br>
