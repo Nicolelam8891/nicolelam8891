@@ -76,11 +76,6 @@ MOD 3:
   <br></br>
  <details>
   <br></br>
-    <img src="https://cdn.medifind.com/wp/2020/08/31184653/00_3_8-Major-Problems-with-the-US-Healthcare-System-Today_hero-768x510.png" height="200px">
-	 
-
-
-  <br></br>
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
 <br></br>
  <div align="left"> 
