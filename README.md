@@ -1,8 +1,12 @@
-<div align="center">
+![Brown Modern Fashion New Collection Tumblr Banner](https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/f04e7c43-f54f-4f0d-817d-7cf2a5ff2bf6)<div align="center">
  <p align="center"> 💻 Front End Software Engineer | 💉 Nurse serving the underprivileged community </p>
  <p align="center">  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
   <div align="center"> 
-    <img src="https://blog.lantum.com/hubfs/Blog%20headers/dev-blog.png" height="300px">
+    <img src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/f08c8216-0665-45bf-8b8c-bfc9ad10506d" height="300px">
+![Brown Modern Fashion New Collection Tumblr Banner]()
+
+
+   
    </div>
 
  <div align="center">
