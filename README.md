@@ -77,7 +77,6 @@ MOD 3:
  <details>
   <br></br>
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
-<br></br>
  <div align="left"> 
 
  ## 🎋 Education 🎋
