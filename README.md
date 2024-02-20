@@ -18,6 +18,7 @@
  
  </div>
 
+<div align="center">
  ##  🎋 More info about me 🎋 
 
 In my roles as both an inpatient and outpatient nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. Adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams.
@@ -81,7 +82,7 @@ MOD 3:
   <br></br>
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
  <div align="left"> 
-
+<div/>
  ## 🎋 Education 🎋
 
  - 📝 **Turing School of Software & Design**
