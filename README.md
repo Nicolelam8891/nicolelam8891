@@ -8,7 +8,7 @@
  <div align="center">
 <br></br>
 
-## 🎋 Contact Me 🎋
+##  Contact Me 
 [Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
     
 <a href="mailto:nicolelam8891@gmail.com">
@@ -19,7 +19,8 @@
  </div>
 
 <div align="center">
- ##  🎋 More info about me 🎋 
+	
+ ##   More info about me 
 
 In my roles as both an inpatient and outpatient nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. Adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams.
 
@@ -30,12 +31,12 @@ Looking ahead, I am exceptionally eager to fully immerse myself in software deve
 Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹 | tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
 <br></br>
 
-  ##  🎋 Languages 🎋
+  ##   Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-  ##  🎋 Frameworks and Libraries 🎋
+  ##   Frameworks and Libraries 
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> 
 <img align="center" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /> 
@@ -44,7 +45,7 @@ Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandari
 <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
 <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
-  ##  🎋 Tools 🎋
+  ##   Tools 
 <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
@@ -56,7 +57,7 @@ Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandari
 <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> 
 
   <br></br>
-  ## 🎋 PROJECTS 🎋
+  ##  PROJECTS 
 
 MOD 1: 
 <br></br>
@@ -84,7 +85,7 @@ MOD 3:
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
  <div align="left"> 
 <div/>
- ## 🎋 Education 🎋
+ ##  Education 
 
  - 📝 **Turing School of Software & Design**
  💻 **Front End Software Development**
@@ -139,7 +140,7 @@ MOD 3:
  📆 January 2014 - January 2015
 
 
- ## 🎋 Volunteer Experience 🎋
+ ##  Volunteer Experience 
   **✅ Church of All Saints Annual Fundraising Event** - (Denver, CO)
   📆 2015 - Current (yearly event)
   
