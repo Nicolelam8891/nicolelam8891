@@ -2,7 +2,7 @@
  <p align="center"> 💻 Front-End Software Engineer | 💉 Nurse serving the underprivileged community </p>
  <p align="center">  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
   <div align="center"> 
-    <img width="898" alt="Screenshot 2024-02-20 at 10 14 19 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/04c504e9-9f1a-4e76-935e-f69d324e1071" height="400px" width="100%">
+    <img width="897" alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="400px" width="100%">
    </div>
 
  <div align="center">
