@@ -54,7 +54,8 @@ Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandari
 <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
 <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> 
-  
+
+  <br></br>
   ## 🎋 PROJECTS 🎋
 
 MOD 1: 
