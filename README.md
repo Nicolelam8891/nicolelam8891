@@ -32,7 +32,7 @@ Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandari
 <br></br>
 
 ## What I am currently working on
-[Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
+Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
 
 
   ##   Languages 
