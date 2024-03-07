@@ -32,10 +32,10 @@ Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandari
 <br></br>
 
 ## What I am currently working on
-- Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
-- A current project I am updating: [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
-- A capstone project I am currently working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
-- My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
+ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
+ A current project I am updating: [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
+ A capstone project I am currently working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
+ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 
   ##   Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
