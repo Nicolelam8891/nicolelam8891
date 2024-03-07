@@ -31,6 +31,10 @@ Looking ahead, I am exceptionally eager to fully immerse myself in software deve
 Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹 | tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
 <br></br>
 
+## What I am currently working on
+[Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
+
+
   ##   Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
