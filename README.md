@@ -4,6 +4,13 @@
 <div> 
 	<img alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="250px" width="500">
 </div>
+##  Contact Me 
+[Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
+    
+<a href="mailto:nicolelam8891@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
+	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
 ## About me
@@ -14,13 +21,6 @@ My dedication extends beyond coding and patient care. I possess a profound passi
 
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
-##  Contact Me 
-[Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
-    
-<a href="mailto:nicolelam8891@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
-	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## What I am currently working on
 - ✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
