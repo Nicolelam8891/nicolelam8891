@@ -106,16 +106,13 @@ Projects I completed in the fourth semester:
 <br></br>
 [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
 </details>
-<br></br>
-
-<br></br>
 
  <details>
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
  <div align="left"> 
 <div/>
+	
  ##  Education 
-
  - 📝 **Turing School of Software & Design**
  💻 **Front End Software Development**
 <br></br>
