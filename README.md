@@ -74,9 +74,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 
 </td></tr></table>
 
-<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) -->
-![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
-
+[Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
 <br />
 
 <details>
