@@ -9,8 +9,7 @@
 ## Contact Me 
 
 <p align="center">
-  <a href="https://terminal.turing.edu/profiles/2024">Portfolio</a> |
-  <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
+  <a href="https://terminal.turing.edu/profiles/2024">Portfolio</a> | <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
 </p>
 
 <p align="center">
