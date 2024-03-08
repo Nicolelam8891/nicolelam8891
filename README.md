@@ -81,17 +81,18 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
  <div align="left"> 
 <div/>
 	
-MOD 1: 
+Projects I completed in the first semester:
 <br></br>
 [ColoRandom 🖍️ (group project)](https://colo-random-mod-1-group-project.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/coloRandom-mod-1-group-project)
 <br></br> 
 [Rock-Paper-Scissors 🪨 📄 ✂️ (final solo project)](rock-paper-scissors-mod-1-solo-project.vertical.app) | [GitHub](https://github.com/Nicolelam8891/rock-paper-scissors-mod-1-solo-project)
 <br></br>
-MOD 2: 
+
+Projects I completed in the second semester:
 <br></br>
 [Overlook 🏨 (final solo project)](https://nicolelam8891.github.io/overlook-mod-2-solo-project/) | [GitHub](https://github.com/Nicolelam8891/overlook-mod-2-solo-project)
 <br></br>
-MOD 3: 
+Projects I completed in the third semester: 
 <br></br>
 [Rancid Tomatoes 🍅 (partner project)](https://rotten-tomatillos-eta.vercel.app/) | [GitHub](https://github.com/pitter3/RottenTomatillos)
 <br></br>
@@ -101,7 +102,10 @@ MOD 3:
 <br></br>
 [News Reader 📰 (solo project | Github)](https://github.com/Nicolelam8891/newsreader/tree/feat/setup/newsreader) 
 <br></br>
-
+Projects I completed in the fourth semester: 
+[AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
+<br></br>
+ 
  <details>
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
  <div align="left"> 
