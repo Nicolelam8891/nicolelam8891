@@ -105,6 +105,7 @@ Projects I completed in the third semester:
 Projects I completed in the fourth semester: 
 <br></br>
 [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
+</details>
 <br></br>
 
 <br></br>
@@ -190,6 +191,6 @@ Projects I completed in the fourth semester:
   📖 Strived to eliminate language barriers in healthcare settings by translating to the underserved, limited English proficient communities. Presented presentations to the elderly Vietnamese community regarding the issues of Hepatitis B in San Francisco & Oakland, California
 
  </div>
-
+</details>
 </div>
 
