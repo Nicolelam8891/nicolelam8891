@@ -5,16 +5,17 @@
 <div/>
 <br></br>
 
-##  Contact Me 
- 
+<div align="left"> 
 ##   More about me
 As a Nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. I am adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams. 
 
 My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
 
-Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 | 
+Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
+<div/> 
 <br></br>
 
+##  Contact Me 
 [Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
     
 <a href="mailto:nicolelam8891@gmail.com">
