@@ -15,17 +15,16 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 ## Contact Me </p>
 
 <p align="center">
-  My terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Terminal Portfolio</a>
-</p>
-<p align="center">
-  My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
-</p>
-
-<p align="center">
   <a href="mailto:nicolelam8891@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
 	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</p>
+<p align="center">
+  My terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Terminal Portfolio</a>
+</p>
+<p align="center">
+  My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
 </p>
 
 ## What I am currently working on
