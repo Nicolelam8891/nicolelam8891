@@ -7,7 +7,7 @@
 </div>
 <p align="center">
 ## Contact Me 
-</p>div>
+
 <p align="center">
   Check out my terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Terminal Portfolio</a>
 </p>
