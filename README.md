@@ -108,7 +108,7 @@ Projects I completed in the fourth semester:
 </details>
 
  <details>
-   <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
+   <summary>🌱 Experiences | Volunteering 🌱</summary>
  <div align="left"> 
 <div/>
 	
