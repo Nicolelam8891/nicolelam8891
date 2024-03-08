@@ -124,7 +124,7 @@ Projects I completed in the fourth semester:
 
  <p></p>
 
- ## 🎋 Work Experience 🎋
+ ## Work Experience 
 
  - 🩺 **Registered Nurse** - Frederico Pena Clinic, Denver Health (Denver CO)
 **Family Medicine Clinic**
