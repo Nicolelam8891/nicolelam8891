@@ -34,7 +34,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
 - ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 
-  <details>
+ <details>
   <br></br>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
  <div align="left"> 
@@ -149,7 +149,7 @@ Projects I completed in the fourth semester:
  </div>
 </details>
 </div>
-  
+
 <div align='left'>
 	
 ## Languages 
