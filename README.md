@@ -5,7 +5,7 @@
 	<img alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="250px" width="500">
 </div>
 </div>
-<p align="center">
+
 ## Contact Me </p>
 
 <p align="center">
