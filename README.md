@@ -5,6 +5,14 @@
 	<img alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="250px" width="500">
 </div>
 </div>
+	
+## About me
+
+🩺 As a Nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. I am adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams. 
+
+My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
+
+Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
 ## Contact Me </p>
 
@@ -23,14 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-	
-## About me
-
-🩺 As a Nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. I am adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams. 
-
-My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
-
-Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
 ## What I am currently working on
 - ✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
