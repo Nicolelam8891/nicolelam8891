@@ -8,7 +8,10 @@
 
 
 ## Contact Me 
+<div align='center'>
 [Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
+</div>
+<br></br>
 <a href="mailto:nicolelam8891@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
