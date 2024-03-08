@@ -64,6 +64,23 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
   <br></br>
 <details>
   <br></br>
+
+ # GitHub Statistics
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nicolelam8891&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="39%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelam8891&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) -->
+![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
+
+<br />
+
    <summary> 🌱 Projects I completed in school: 🌱</summary>
  <div align="left"> 
 <div/>
