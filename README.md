@@ -15,10 +15,10 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 ## Contact Me </p>
 
 <p align="center">
-  Check out my terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Terminal Portfolio</a>
+  My terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Terminal Portfolio</a>
 </p>
 <p align="center">
-  Check out my resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
+  My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
 </p>
 
 <p align="center">
