@@ -34,6 +34,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
 - ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 
+## Other 
  <details>
   <br></br>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
@@ -89,7 +90,7 @@ Projects I completed in the fourth semester:
 **Family Medicine Clinic**
 **Experience with EPIC outpatient**
 <br></br>
- 📆 Jan 2023 - Current
+ 📆 Jul 2023 - Jan 2024
 <br></br>
 
  - 🩺 **Registered Nurse** - Speciality Clinic, Denver Health Hospital (Denver, CO)
