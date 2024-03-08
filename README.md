@@ -32,7 +32,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 
 ## Other 
  <details>
-  <br></br>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
  <div align="left"> 
 <div/>
