@@ -10,7 +10,6 @@
 My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
 
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
-<br></br>
 
 ##  Contact Me 
 [Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
