@@ -73,8 +73,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelam8891&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
-
-[Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
 <br />
 
 <details>
