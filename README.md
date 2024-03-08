@@ -1,9 +1,10 @@
-<p align="center"> 💻 Front-End Software Engineer | 💉 Nurse serving the underprivileged community </p>
-<p align="center">  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
-<div align="center"> 
+<p> 💻 Front-End Software Engineer | 💉 Nurse serving the underprivileged community </p>
+<p>  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
+<div> 
 	<img alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="250px" width="500">
+</div>
 
-##   About me
+## About me
 
 🩺 As a Nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. I am adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams. 
 
@@ -20,10 +21,10 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## What I am currently working on
-✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
-✅ A current project I am updating: [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
-✅ A capstone project I am currently working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
-✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
+- ✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
+- ✅ A current project I am updating: [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
+- ✅ A capstone project I am currently working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
+- ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 
   ##   Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
