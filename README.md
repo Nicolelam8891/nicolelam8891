@@ -61,19 +61,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> 
 <div/>
-  <br></br>
-
-  # GitHub Statistics
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nicolelam8891&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="39%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelam8891&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-<br />
 
 <details>
   <br></br>
@@ -190,4 +177,12 @@ Projects I completed in the fourth semester:
  </div>
 </details>
 </div>
+
+  # GitHub Statistics
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=nicolelam8891&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="39%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelam8891&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
+<br />
 
