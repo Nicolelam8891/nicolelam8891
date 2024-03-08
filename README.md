@@ -7,15 +7,19 @@
 </div>
 
 ## Contact Me 
-<div align='center'>
-[Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
+<p align="center">
+  <a href="https://terminal.turing.edu/profiles/2024">Portfolio</a> |
+  <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
+</p>
 
-<br></br>
-<a href="mailto:nicolelam8891@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
-	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<div/>
+<p align="center">
+  <a href="mailto:nicolelam8891@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
+    <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 	
 ## About me
 
@@ -24,7 +28,6 @@
 My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
 
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
-
 
 ## What I am currently working on
 - ✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
