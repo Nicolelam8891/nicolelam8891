@@ -72,7 +72,7 @@ Projects I completed in the fourth semester:
  - 📝 **Turing School of Software & Design**
  💻 **Front End Software Development**
 <br></br>
- 📆 July 3rd, 2023 - Current.
+ 📆 July 3rd, 2023 - Jan 2024
 <br></br>
  - 📝 **University of California, Berkeley, BA**
 <br></br>
@@ -86,7 +86,7 @@ Projects I completed in the fourth semester:
 **Family Medicine Clinic**
 **Experience with EPIC outpatient**
 <br></br>
- 📆 Jul 2023 - Jan 2024
+ 📆 Jan 2023 - Current
 <br></br>
 
  - 🩺 **Registered Nurse** - Speciality Clinic, Denver Health Hospital (Denver, CO)
