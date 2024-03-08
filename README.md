@@ -25,12 +25,11 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 
 <p align="center">
   <a href="mailto:nicolelam8891@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
-    <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
+	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
+<br></br>
 
 ## What I am currently working on
 - ✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
