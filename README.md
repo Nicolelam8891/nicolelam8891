@@ -1,41 +1,33 @@
-<div align="center">
- <p align="center"> 💻 Front-End Software Engineer | 💉 Nurse serving the underprivileged community </p>
- <p align="center">  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
-  <div align="center"> 
-    <img width="897" alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="375px" width="100%">
-   </div>
+<p align="center"> 💻 Front-End Software Engineer | 💉 Nurse serving the underprivileged community </p>
+<p align="center">  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
+<div align="center"> 
+	<img width="897" alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="375px" width="100%">
+<div/>
 
- <div align="center">
 <br></br>
 
 ##  Contact Me 
+ 
+ ##   More about me
+As a Nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. I am adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams. 
+
+My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
+
+Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 | 
+<br></br>
+
 [Portfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
     
 <a href="mailto:nicolelam8891@gmail.com">
-	  <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-	<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
-	   <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
- 
- </div>
-
-<div align="center">
-	
- ##   More info about me 
-
-In my roles as both an inpatient and outpatient nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. Adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams.
-
-As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. My dedication extends beyond coding and patient care. I possess a profound passion for community service and understand the importance of advocating for underserved communities.
-
-Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
-
-Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandarin | piano 🎹 | tennis 🎾 | striving to advocate for underprivileged & underserved communities through acts of service!
-<br></br>
+	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
+	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## What I am currently working on
-1. Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
-2. A current project I am updating: [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
-3. A capstone project I am currently working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
-4. My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
+✅ Come check out my daily blog about what I have learned: [Daily Blog](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
+✅ A current project I am updating: [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
+✅ A capstone project I am currently working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
+✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 
   ##   Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -63,8 +55,12 @@ Fun facts: fluent in Vietnamese | conversational in Cantonese | learning Mandari
 <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> 
 
   <br></br>
-  ##  PROJECTS 
-
+<details>
+  <br></br>
+   <summary> 🌱 Projects I completed in school: 🌱</summary>
+ <div align="left"> 
+<div/>
+	
 MOD 1: 
 <br></br>
 [ColoRandom 🖍️ (group project)](https://colo-random-mod-1-group-project.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/coloRandom-mod-1-group-project)
@@ -84,10 +80,9 @@ MOD 3:
 [Valorant 🎮  (final solo project)](https://valorantshowcase.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/valorant-showcase-mod-3-solo-project)
 <br></br>
 [News Reader 📰 (solo project | Github)](https://github.com/Nicolelam8891/newsreader/tree/feat/setup/newsreader) 
+<br></br>
 
-  <br></br>
  <details>
-  <br></br>
    <summary>📗 Click here: 🌱 Experiences | Volunteering 🌱</summary>
  <div align="left"> 
 <div/>
