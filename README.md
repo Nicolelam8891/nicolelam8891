@@ -103,6 +103,7 @@ Projects I completed in the third semester:
 [News Reader 📰 (solo project | Github)](https://github.com/Nicolelam8891/newsreader/tree/feat/setup/newsreader) 
 <br></br>
 Projects I completed in the fourth semester: 
+<br></br>
 [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
 <br></br>
  
@@ -120,7 +121,6 @@ Projects I completed in the fourth semester:
  - 📝 **University of California, Berkeley, BA**
 <br></br>
  - 📝 **Regis University, BSN**
-
 
  <p></p>
 
