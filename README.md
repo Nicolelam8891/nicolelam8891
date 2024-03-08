@@ -36,8 +36,8 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
    <summary> 🌱 Projects I completed in school: 🌱</summary>
  <div align="left"> 
 <div/>
-	
-Projects I completed in the first semester:
+<details>
+ <summary> Projects I completed in the first semester: </summary>
 <br></br>
 [ColoRandom 🖍️ (group project)](https://colo-random-mod-1-group-project.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/coloRandom-mod-1-group-project)
 <br></br> 
