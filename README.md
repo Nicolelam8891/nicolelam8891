@@ -13,9 +13,8 @@
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
 ## Contact Me 
-[Terminal Porfolio](https://terminal.turing.edu/profiles/2024) 
-[Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
 <div align="center" style="background-color: #b2b2a3; padding: 20px; border-radius: 10px;">
+[Terminal Porfolio](https://terminal.turing.edu/profiles/2024) | [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
   <h3 style="color: #fff;">Let's Connect!</h3>
   <p>
     <a href="mailto:nicolelam8891@gmail.com">
