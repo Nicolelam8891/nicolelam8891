@@ -4,11 +4,12 @@
 <div> 
 	<img alt="Screenshot 2024-03-11 at 2 02 13 PM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/6c2aa962-b419-45f6-b91e-53fac1d6bfc1" height="220" width="500">
 </div>
-</div>	
+</div>	![Uploading image.png…]()
+
 
 ### About me
 <div>
-🩺 As a nurse experienced with EPIC and a front-end software engineer, my work is shaped by empathy and compassion from my healthcare background. I bring strong interpersonal skills, teamwork, critical thinking, and problem-solving abilities to software development. I'm committed to making a meaningful impact in software development to improve lives across diverse communities. My goal is to produce user-friendly content. I am excited to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
+As a front-end software engineer 👩🏽‍💻 and nurse 🩺 experienced with EPIC, my work is shaped by empathy and compassion from my healthcare background. I bring strong interpersonal skills, teamwork, critical thinking, and problem-solving abilities to software development. I'm committed to making a meaningful impact in software development to improve lives across diverse communities. My goal is to produce user-friendly content. I am excited to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
 <br></br>
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 </div>
