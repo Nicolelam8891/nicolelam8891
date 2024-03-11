@@ -13,6 +13,7 @@
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 </div>
 
+<div align='center'>
 ### Please reach out to me!
 
 [Terminal Porfolio](https://terminal.turing.edu/profiles/2024) | 
@@ -25,7 +26,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
-
+</div>
 ---
 
 ### What I am currently working on
