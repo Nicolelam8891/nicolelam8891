@@ -21,10 +21,11 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 <p align="center">
   <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="90" height="90" />
 </p>
-<div>
+
 	
 [Porfolio](https://terminal.turing.edu/profiles/2024) | 
-[Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
+[Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
+<div>
     <a href="mailto:nicolelam8891@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
