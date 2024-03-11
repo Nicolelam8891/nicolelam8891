@@ -16,7 +16,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 
 [Terminal Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
-
+<div>
   <h4 style="color: #6895af;">Let's Connect!</h3>
   <p>
     <a href="mailto:nicolelam8891@gmail.com">
@@ -26,7 +26,8 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
-<br></br>
+</div>
+---
 
 ## What I am currently working on
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
