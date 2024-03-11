@@ -14,7 +14,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 </div>
 
 <div align='center'>
-### Please reach out to me!
+<h4>Please reach out to me!</h4>
 
 [Terminal Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
@@ -27,6 +27,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
     </a>
 </div>
 </div>
+
 ---
 
 ### What I am currently working on
