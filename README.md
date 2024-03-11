@@ -2,9 +2,8 @@
 <p> 💻 Front-End Software Engineer | 💉 Nurse serving the underprivileged community </p>
 <p>  LET'S GO OUT THERE & MAKE A POSITIVE IMPACT WITH CODE! </p>
 <div> 
-	<img alt="Screenshot 2024-03-11 at 2 02 13 PM](https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/9c02e2ce-97a7-4011-a09f-74e5fde84a69" height="200px" width="500">
+	<img width="1180" alt="Screenshot 2024-02-29 at 11 47 15 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/025381f5-138a-480d-9362-a8058cefd24d" height="220px" width="500">
 </div>
-	
 </div>	
 
 ### About me
