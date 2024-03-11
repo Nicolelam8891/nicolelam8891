@@ -21,9 +21,8 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
   My terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Portfolio</a>
 </p>
   My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
----
 </p>
-
+---
 
 ## What I am currently working on
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
@@ -150,6 +149,7 @@ Projects I completed in the fourth semester:
 </div>
 
 <div align='left'>
+---
 	
 ## Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
