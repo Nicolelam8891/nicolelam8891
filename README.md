@@ -27,7 +27,10 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
     </a>
   </p>
 </div>
+
 ---
+
+
 
 ## What I am currently working on
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
