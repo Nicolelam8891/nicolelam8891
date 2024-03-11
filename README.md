@@ -16,14 +16,13 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 ---
 
 <div align='center'>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkzaTM2NDM5ZXR0NGpjaXdndGFzdTNrdTk1c20zZ3FyMmcxeXVydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JVmYAO3MkGNiM/giphy.gif" width="100" height="100" />
-</p>	
-	
 <h4>Please reach me at:</h4>
 
 [Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkzaTM2NDM5ZXR0NGpjaXdndGFzdTNrdTk1c20zZ3FyMmcxeXVydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JVmYAO3MkGNiM/giphy.gif" width="80" height="80" />
+</p>
 <div>
     <a href="mailto:nicolelam8891@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
