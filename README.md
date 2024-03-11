@@ -12,7 +12,7 @@
 
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
-### Contact Me </p>
+## Contact Me </p>
 
   <a href="mailto:nicolelam8891@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
