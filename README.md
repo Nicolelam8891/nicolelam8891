@@ -154,6 +154,9 @@ Projects I completed in the fourth semester:
 </details>
 </div>
 
+---
+
+
 <div align='left'>
 <br></br>
 	
