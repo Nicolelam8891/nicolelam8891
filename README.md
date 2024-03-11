@@ -16,7 +16,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 ---
 
 <div align='center'>
-<h4>Reach out to here</h4>
+<h4>Please reach me at:</h4>
 
 [Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
