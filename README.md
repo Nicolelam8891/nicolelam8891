@@ -4,7 +4,6 @@
 <div> 
 	<img alt="Screenshot 2024-02-20 at 10 19 29 AM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/483081e8-3a6b-4857-b214-247b3b270c27" height="200px" width="500">
 </div>
-</div>
 
 ### Contact Me 
 
@@ -18,7 +17,7 @@
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
-
+</div>
 ---
 	
 ### About me
