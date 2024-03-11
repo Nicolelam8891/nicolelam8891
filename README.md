@@ -13,7 +13,6 @@
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
 ## Contact Me </p>
-
   <a href="mailto:nicolelam8891@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
@@ -24,7 +23,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
   My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
 </p>
 ---
-<br></br>
 
 ## What I am currently working on
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
