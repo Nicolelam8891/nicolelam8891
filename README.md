@@ -12,7 +12,6 @@
 
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 ---
-<br></br>
 
 ## Contact Me </p>
 
@@ -25,6 +24,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 </p>
   My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
 </p>
+---
 <br></br>
 
 ## What I am currently working on
