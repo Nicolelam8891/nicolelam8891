@@ -13,6 +13,8 @@
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 </div>
 
+---
+
 <div align='center'>
 <h4>Please reach out to me!</h4>
 
