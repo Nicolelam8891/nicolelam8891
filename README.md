@@ -30,7 +30,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 - ✅ My daily blog: [Today I learned...](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
 - ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 <br></br>
-
 ## Other 
  <details>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
