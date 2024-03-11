@@ -8,7 +8,7 @@
 
 ### About me
 <div>
-🩺 As a Nurse, interfacing daily with EPIC, I've witnessed firsthand the transformative power of technology in healthcare. As a front-end developer, I persistently aim to produce user-friendly content. My approach to development is deeply influenced by the empathy and compassion I've gained during my years in nursing. Collaborating with healthcare providers across various specialties has equipped me with strong interpersonal skills and a profound sense of teamwork. I am adept at critical thinking and problem-solving, I am excited to leverage this cross-industry experience to contribute to software development teams. Looking ahead, I am exceptionally eager to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
+🩺 As a nurse experienced with EPIC and a front-end software engineer, my work is shaped by empathy and compassion from my healthcare background. I bring strong interpersonal skills, teamwork, critical thinking, and problem-solving abilities to software development. I'm committed to making a meaningful impact in software development to improve lives across diverse communities. My goal is to produce user-friendly content. I am eagar to fully immerse myself in software development, where my tech proficiency and medical insights can truly make a difference in the lives of people from all walks of life!
 <br></br>
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 </div>
