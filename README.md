@@ -16,9 +16,9 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 ---
 
 <div align='center'>
-<h4>Please reach out to me!</h4>
+<h4>Reach out to here</h4>
 
-[Terminal Porfolio](https://terminal.turing.edu/profiles/2024) | 
+[Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
 <div>
     <a href="mailto:nicolelam8891@gmail.com">
