@@ -17,7 +17,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 [Terminal Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
 
-  <h3 style="color: #fff;">Let's Connect!</h3>
+  <h4 style="color: #6895af;">Let's Connect!</h3>
   <p>
     <a href="mailto:nicolelam8891@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
