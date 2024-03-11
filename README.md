@@ -17,10 +17,12 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 
 <div align='center'>
 <h4>Please reach me at:</h4>
+	
 <p align="center">
   <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="90" height="90" />
 </p>
 <div>
+	
 [Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
     <a href="mailto:nicolelam8891@gmail.com">
