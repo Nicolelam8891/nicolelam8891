@@ -4,7 +4,7 @@
 <div> 
 	<img alt="Screenshot 2024-03-11 at 2 02 13 PM" src="https://github.com/Nicolelam8891/nicolelam8891/assets/132624450/6c2aa962-b419-45f6-b91e-53fac1d6bfc1" height="220" width="500">
 </div>
-</div>	![Uploading image.png…]()
+</div>	
 
 
 ### About me
