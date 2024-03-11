@@ -39,10 +39,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 - ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif" width="200" height="200" />
-</p>
-	
 ### Other 
  <details>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
@@ -200,3 +196,6 @@ Projects I completed in the fourth semester:
 </td></tr></table>
 <br />
 
+<p align="center">
+  <img src="https://media.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif" width="200" height="200" />
+</p>
