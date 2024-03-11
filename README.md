@@ -201,5 +201,5 @@ Projects I completed in the fourth semester:
 <br />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh0bXR3aWdpM3U3a3lhbTI4NHF4OTR3eTd3M2d5N3llaDhzNXBpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hmdApHQb2hdfdKu6jg/giphy.gif" width="200" height="200" />
 </p>
