@@ -22,7 +22,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 </p>
   My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
 </p>
-<br></br>
+---
 
 ## What I am currently working on
 - ✅ Capstone project I am working on: [AI AT ALLY 👩‍🦼  (capstone project)](https://at-finder-a11y.vercel.app/) | [GitHub](https://github.com/Nicolelam8891/at-finder-a11y)
@@ -30,7 +30,6 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 - ✅ My daily blog: [Today I learned...](https://github.com/Nicolelam8891/things_I_learned_blog/blob/main/README.md)
 - ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 ---
-
 ## Other 
  <details>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
