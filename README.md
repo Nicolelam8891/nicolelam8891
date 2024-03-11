@@ -39,6 +39,8 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 - ✅ My coding challenges: [Code Challenges](https://github.com/Nicolelam8891/code_challenges_NGL)
 ---
 
+<iframe src="https://giphy.com/embed/rOdtJJS9Xf4TYx2aT8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PudgyMemez-work-digital-sappy-seals-rOdtJJS9Xf4TYx2aT8">via GIPHY</a></p>
+
 ### Other 
  <details>
    <summary> 🌱 Projects I completed in school: 🌱</summary>
