@@ -12,16 +12,18 @@
 
 Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾 
 
-## Contact Me </p>
-  <a href="mailto:nicolelam8891@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-<a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
-	<img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</p>
-  My terminal portfolio: <a href="https://terminal.turing.edu/profiles/2024">Portfolio</a>
-</p>
-  My resume: <a href="https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing">Resume</a>
-</p>
+## Contact Me 
+<div align="center" style="background-color: #b2b2a3; padding: 20px; border-radius: 10px;">
+  <h3 style="color: #fff;">Let's Connect!</h3>
+  <p>
+    <a href="mailto:nicolelam8891@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/nicole-ngoc-lam/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
 <br></br>
 
 ## What I am currently working on
