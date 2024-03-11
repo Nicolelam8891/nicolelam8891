@@ -21,7 +21,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 [Porfolio](https://terminal.turing.edu/profiles/2024) | 
 [Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing) 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkzaTM2NDM5ZXR0NGpjaXdndGFzdTNrdTk1c20zZ3FyMmcxeXVydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JVmYAO3MkGNiM/giphy.gif" width="90" height="90" />
+  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="90" height="90" />
 </p>
 <div>
     <a href="mailto:nicolelam8891@gmail.com">
