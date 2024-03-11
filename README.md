@@ -156,9 +156,7 @@ Projects I completed in the fourth semester:
 
 ---
 
-
 <div align='left'>
-<br></br>
 	
 ## Languages 
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -185,6 +183,8 @@ Projects I completed in the fourth semester:
 <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> 
 <div/>
+
+---
 
   # GitHub Statistics
 <table><tr><td valign="top" width="50%">
