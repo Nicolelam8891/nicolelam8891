@@ -24,7 +24,7 @@ Fun facts: fluent in Vietnamese | piano 🎹 | tennis 🎾
 <h4>Please reach me at:</h4>
 	
 [Porfolio](https://terminal.turing.edu/profiles/2024) | 
-[Resume](https://docs.google.com/document/d/1ArAXRBa24hroEkuM1K0cadLAm6mAzSoVpgeTPbjfLd4/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/10trb0ox18sPnA-WkZ0HsERCtamnnaSOFuPNxVwDbKKA/edit?usp=sharing)
 <div>
     <a href="mailto:nicolelam8891@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
